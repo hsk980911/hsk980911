@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=2478FF&fontColor=ffffff&height=200&section=header&text=SOONGYU%20GITHUB%20&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=soft&color=2478FF&fontColor=ffffff&height=140&section=header&text=SOONGYU%20GITHUB%20&fontSize=70)
 
 <!--
 **hsk980911/hsk980911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
